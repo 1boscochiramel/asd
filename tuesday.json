@@ -1,0 +1,606 @@
+{
+"date": "Tuesday, November 4",
+"sessions": [
+{
+"id": "T01",
+"type": "Plenary",
+"time_slot": "9:30 AM – 11:00 AM",
+"venue": "Homi Bhabha Auditorium",
+"convener": "Sourendu Gupta (Tata Institute of Fundamental Research)",
+"talks": [
+{
+"time": "9:30 AM – 10:15 AM",
+"title": "Experiment and Lattice: Understanding High-Temperature QCD Matter",
+"speaker": "Bedangadas Mohanty",
+"affiliation": "National Institute of Science Education and Research (NISER) (IN)"
+},
+{
+"time": "10:15 AM – 11:00 AM",
+"title": "Lattice QCD at finite temperature and density",
+"speaker": "Heng-Tong Ding",
+"affiliation": null
+}
+]
+},
+{
+"id": "T02",
+"type": "Break",
+"time_slot": "11:00 AM – 11:30 AM",
+"venue": "Coffee Break",
+"description": "Coffee break"
+},
+{
+"id": "T03",
+"type": "Plenary",
+"time_slot": "11:30 AM – 1:00 PM",
+"venue": "Homi Bhabha Auditorium",
+"convener": "Frithjof Karsch (Bielefeld University)",
+"talks": [
+{
+"time": "11:30 AM – 12:00 PM",
+"title": "Spectral Properties of the Quark-Gluon Plasma from Lattice QCD",
+"speaker": "Dibyendu Bala",
+"affiliation": "Bielefeld University"
+},
+{
+"time": "12:00 PM – 12:30 PM",
+"title": "Non-perturbative QCD thermodynamics with N_f=3 up to the electroweak scale",
+"speaker": "Michele Pepe",
+"affiliation": "INFN - National Institute for Nuclear Physics"
+},
+{
+"time": "12:30 PM – 12:50 PM",
+"title": "ILDG",
+"speaker": null,
+"affiliation": null
+},
+{
+"time": "12:50 PM – 1:00 PM",
+"title": "LAVA",
+"speaker": null,
+"affiliation": null
+}
+]
+},
+{
+"id": "T04",
+"type": "Break",
+"time_slot": "1:00 PM – 2:50 PM",
+"venue": "Lunch Break",
+"description": "Lunch break [Followed by LDIC Meeting]"
+},
+{
+"id": "T05",
+"type": "Parallel",
+"time_slot": "2:50 PM – 4:10 PM",
+"parallel_sessions": [
+{
+"theme": "Algorithms and artificial intelligence",
+"venue": "AG69",
+"talks": [
+{
+"time": "2:50 PM – 3:10 PM",
+"title": "False vacuum decay and a new sampling method for rare events",
+"speaker": "Joshua Swaim",
+"affiliation": "University of Connecticut"
+},
+{
+"time": "3:10 PM – 3:30 PM",
+"title": "Simulating Correlated Electrons with Symmetry-Enforced Normalizing Flows",
+"speaker": "Dominic Schuh",
+"affiliation": "University of Bonn"
+},
+{
+"time": "3:30 PM – 3:50 PM",
+"title": "Towards Scalable Normalizing Flows for the Hubbard Model",
+"speaker": "Janik Kreit",
+"affiliation": "University of Bonn"
+},
+{
+"time": "3:50 PM – 4:10 PM",
+"title": "Normalizing Flows for the Density of States in Abelian Lattice Gauge Theory with a \u03b8-term",
+"speaker": "Simran Singh",
+"affiliation": "HISKP, University of Bonn"
+}
+]
+},
+{
+"theme": "Hadronic and nuclear spectrum and interactions",
+"venue": "AG66",
+"talks": [
+{
+"time": "2:50 PM – 3:10 PM",
+"title": "Nucleon to Delta (1232) Resonance Transition Form Factors from Lattice QCD",
+"speaker": "Srijit Paul",
+"affiliation": null
+},
+{
+"time": "3:10 PM – 3:30 PM",
+"title": "Towards the time-like pion form factor beyond the elastic regime using domain-wall QCD",
+"speaker": "Gabriele Morandi",
+"affiliation": "Università degli Studi di Milano - Bicocca"
+},
+{
+"time": "3:30 PM – 3:50 PM",
+"title": "Two-pion scattering amplitude from Lattice QCD using staggered fermions",
+"speaker": "Adeilton Dean Marques Valois",
+"affiliation": null
+}
+]
+},
+{
+"theme": "Vacuum structure and confinement",
+"venue": "AG77",
+"talks": [
+{
+"time": "2:50 PM – 3:10 PM",
+"title": "Neural-network parametrized ground state optimization for the static quark-antiquark pair",
+"speaker": "Julian Mayer-Steudte",
+"affiliation": null
+},
+{
+"time": "3:10 PM – 3:30 PM",
+"title": "Entanglement as a Probe of Flux Tube Structure",
+"speaker": "Rocco Amorosso",
+"affiliation": null
+},
+{
+"time": "3:30 PM – 3:50 PM",
+"title": "Entanglement Entropy in Lattice Gauge Systems from a Dual Loop Formulation",
+"speaker": "Adarsh S.",
+"affiliation": "National Institute of Technology Calicut"
+},
+{
+"time": "3:50 PM – 4:10 PM",
+"title": "Phase diagram of 4D SU(3) Yang-Mills theory at \u03b8 = \u03c0 via imaginary theta simulations",
+"speaker": "Akira Matsumoto",
+"affiliation": "Graduate School of Science, Osaka Metropolitan University"
+}
+]
+},
+{
+"theme": "Hadronic contribution to the magnetic moment of muon",
+"venue": "D406",
+"talks": [
+{
+"time": "2:50 PM – 3:10 PM",
+"title": "The three-loop hadronic vacuum polarization in chiral perturbation theory",
+"speaker": "Mattias Sjö",
+"affiliation": "CPT Marseille"
+},
+{
+"time": "3:10 PM – 3:30 PM",
+"title": "Hadronic contributions to \u03b1(Q\u00b2) and sin\u00b2\u03b8\u209a(Q\u00b2) from spectral reconstruction on the lattice.",
+"speaker": "Adrián del Pino Rubio",
+"affiliation": "University of Zaragoza"
+},
+{
+"time": "3:30 PM – 3:50 PM",
+"title": "Comparing RM123 and dynamical QCD+QED approaches to the HVP with N\u2093=1+2+1 Wilson fermions and C-periodic boundary conditions",
+"speaker": "Marina Krstic Marinkovic",
+"affiliation": "ETH Zurich"
+},
+{
+"time": "3:50 PM – 4:10 PM",
+"title": "Isospin-breaking corrections in hadronic cross sections and tau decays",
+"speaker": "Martin Hoferichter",
+"affiliation": null
+}
+]
+},
+{
+"theme": "QCD at nonzero temperature and density",
+"venue": "Homi Bhabha Auditorium",
+"talks": [
+{
+"time": "2:50 PM – 3:10 PM",
+"title": "Unscreened potential and charmonium width from lattice QCD",
+"speaker": "Rasmus Larsen",
+"affiliation": "Bielefeld University"
+},
+{
+"time": "3:10 PM – 3:30 PM",
+"title": "Understanding the spin-spin interactions among heavy quarks at finite temperature",
+"speaker": "Swagatam Tah",
+"affiliation": "The Institute of Mathematical Sciences"
+},
+{
+"time": "3:30 PM – 3:50 PM",
+"title": "Color electric field correlators for diffusion of heavy quarkonia in a gluon plasma",
+"speaker": "Saumen Datta",
+"affiliation": null
+},
+{
+"time": "3:50 PM – 4:10 PM",
+"title": "Quarkonium in non-zero isospin chemical potential environment at T \u2248 0",
+"speaker": "Se Yong Kim",
+"affiliation": "Sejong University (KR)"
+}
+]
+},
+{
+"theme": "Structure of hadrons and nuclei",
+"venue": "AG80",
+"talks": [
+{
+"time": "2:50 PM – 3:10 PM",
+"title": "The gluon and x-dependent isoscalar quark structure of the nucleon",
+"speaker": "Christopher Monahan",
+"affiliation": null
+},
+{
+"time": "3:10 PM – 3:30 PM",
+"title": "The hadronic tensor from four-point functions on the lattice",
+"speaker": "Christian Zimmermann",
+"affiliation": "University of Kentucky"
+},
+{
+"time": "3:30 PM – 3:50 PM",
+"title": "Higher Moments of Parton Distribution Functions from Lattice QCD at the Physical Point",
+"speaker": "Emilio Taggi",
+"affiliation": "Forschungszentrum Juelich, Bonn University"
+},
+{
+"time": "3:50 PM – 4:10 PM",
+"title": "Moments of non-singlet pion PDFs up to <x^5> using gradient flow",
+"speaker": "Dimitra Pefkou",
+"affiliation": null
+}
+]
+},
+{
+"theme": "Theoretical developments and applications beyond Standard Model",
+"venue": "Homi Bhabha Auditorium Annex",
+"talks": [
+{
+"time": "2:50 PM – 3:10 PM",
+"title": "How to formulate the Z\u2088 topological invariant of Majorana fermion on the lattice",
+"speaker": "Sho Araki",
+"affiliation": "The University of Osaka"
+},
+{
+"time": "3:10 PM – 3:30 PM",
+"title": "Topology and Banks-Casher relation using Minimally Doubled Fermions",
+"speaker": "Abhijeet Kishore",
+"affiliation": "Indian Institute of Technology Kanpur"
+},
+{
+"time": "3:30 PM – 3:50 PM",
+"title": "Generalization of lattice Dirac operator index",
+"speaker": "Hidenori Fukaya",
+"affiliation": "The University of Osaka"
+},
+{
+"time": "3:50 PM – 4:10 PM",
+"title": "Spin-taste representation of Karsten-Wilczek fermions",
+"speaker": "Johannes Heinrich Weber",
+"affiliation": "Technische Universität Darmstadt"
+}
+]
+}
+]
+},
+{
+"id": "T06",
+"type": "Break",
+"time_slot": "4:10 PM – 4:40 PM",
+"venue": "Coffee Break",
+"description": "Coffee break"
+},
+{
+"id": "T07",
+"type": "Parallel",
+"time_slot": "4:40 PM – 6:00 PM",
+"parallel_sessions": [
+{
+"theme": "Hadronic and nuclear spectrum and interactions",
+"venue": "AG66",
+"talks": [
+{
+"time": "4:40 PM – 5:00 PM",
+"title": "Two-particle matrix elements in a box",
+"speaker": "Felipe Ortega Gama",
+"affiliation": "UC Berkeley"
+},
+{
+"time": "5:00 PM – 5:20 PM",
+"title": "Bayesian Analysis and Analytic Continuation of Scattering Amplitudes from Lattice QCD",
+"speaker": "Miguel Salg",
+"affiliation": "University of Bern"
+},
+{
+"time": "5:20 PM – 5:40 PM",
+"title": "Towards four-pion effects in multi-hadron decays",
+"speaker": "Rajnandini Mukherjee",
+"affiliation": "University of Edinburgh"
+}
+]
+},
+{
+"theme": "QCD at nonzero temperature and density",
+"venue": "Homi Bhabha Auditorium",
+"talks": [
+{
+"time": "4:40 PM – 5:00 PM",
+"title": "Towards a Determination of thermal static Potential at Finite Density from Lattice QCD",
+"speaker": "Jishnu Goswami",
+"affiliation": "Bielefeld University"
+},
+{
+"time": "5:00 PM – 5:20 PM",
+"title": "Shear Viscosity: Renormalization of the EMT in Full QCD",
+"speaker": "Pavan Pavan",
+"affiliation": null
+},
+{
+"time": "5:20 PM – 5:40 PM",
+"title": "Spectral reconstruction techniques, their shortcomings and relevance to the electric conductivity coefficient",
+"speaker": "Christian Andratschke",
+"affiliation": "Bielefeld University"
+},
+{
+"time": "5:40 PM – 6:00 PM",
+"title": "Spectral reconstruction and dimensional reduction in high-temperature gauge theories",
+"speaker": "Pavel Buividovich",
+"affiliation": null
+}
+]
+},
+{
+"theme": "Software development and machines",
+"venue": "AG69",
+"talks": [
+{
+"time": "4:40 PM – 5:00 PM",
+"title": "Variance Reduction with Probing and Multilevel Monte Carlo in Lattice QCD",
+"speaker": "Jose Miguel Jimenez Merchan",
+"affiliation": "Bergische Universität Wuppertal"
+},
+{
+"time": "5:00 PM – 5:20 PM",
+"title": "Improving HISQ Propagator solves using multigrid",
+"speaker": "Leon Hostetler",
+"affiliation": "Indiana University"
+},
+{
+"time": "5:20 PM – 5:40 PM",
+"title": "Could photonic integrated circuits have an impact on lattice QCD?",
+"speaker": "Timoteo Lee",
+"affiliation": "University of Heidelberg"
+},
+{
+"time": "5:40 PM – 6:00 PM",
+"title": "Lattice QCD on the NVIDIA Grace-Hopper and Blackwell Architectures",
+"speaker": "Mathias Wagner",
+"affiliation": "Nvidia"
+}
+]
+},
+{
+"theme": "Structure of hadrons and nuclei",
+"venue": "AG80",
+"talks": [
+{
+"time": "4:40 PM – 5:00 PM",
+"title": "The Three-Dimensional Structure of the Nucleon through Lattice QCD",
+"speaker": "David Richards",
+"affiliation": "Jefferson Lab"
+},
+{
+"time": "5:00 PM – 5:20 PM",
+"title": "Parton physics from a heavy-quark operator product expansion: Dynamical lattice QCD calculation of moments of the pion and kaon light-cone distribution amplitude",
+"speaker": "S.-P. Alex Chang",
+"affiliation": "Institute of Physics, National Yang Ming Chiao Tung University, Taiwan"
+},
+{
+"time": "5:20 PM – 5:40 PM",
+"title": "x-dependent Light Baryon LCDAs from Lattice QCD",
+"speaker": "Mu-Hua Zhang",
+"affiliation": "Shanghai Jiao Tong University"
+},
+{
+"time": "5:40 PM – 6:00 PM",
+"title": "Partonic functions in Minkowsky space with tensor networks a Schwinger model study",
+"speaker": "Manuel Schneider",
+"affiliation": "National Yang Ming Chiao Tung University"
+}
+]
+},
+{
+"theme": "Theoretical developments and applications beyond Standard Model",
+"venue": "Homi Bhabha Auditorium Annex",
+"talks": [
+{
+"time": "4:40 PM – 5:00 PM",
+"title": "Conserved non-singlet charges for staggered fermion Hamiltonian in 3+1 dimensions",
+"speaker": "Tetsuya Onogi",
+"affiliation": "The University of Osaka"
+},
+{
+"time": "5:00 PM – 5:20 PM",
+"title": "Finite-temperature Sp(4) Yang-Mills theory: towards the continuum",
+"speaker": "Fabian Zierler",
+"affiliation": "Swansea University"
+},
+{
+"time": "5:20 PM – 5:40 PM",
+"title": "Generalizing deconfined criticality to 3d N-flavor SU(2) quantum chromodynamics on the fuzzy sphere",
+"speaker": "Emilie Huffman",
+"affiliation": "Wake Forest University"
+},
+{
+"time": "5:40 PM – 6:00 PM",
+"title": "Critical scaling in the N=1 Thirring Model in (2+1)d",
+"speaker": "Simon Hands",
+"affiliation": "University of Liverpool"
+}
+]
+},
+{
+"theme": "Vacuum structure and confinement",
+"venue": "AG77",
+"talks": [
+{
+"time": "4:40 PM – 5:00 PM",
+"title": "Update on the computation of the unquenched Yang-Mills lattice spectrum in the 't Hooft limit",
+"speaker": "Andrea Falzetti",
+"affiliation": ""Sapienza" University of Rome"
+},
+{
+"time": "5:00 PM – 5:20 PM",
+"title": "Direct numerical simulation of 't Hooft partition function and (de) confining phase",
+"speaker": "Okuto Morikawa",
+"affiliation": "RIKEN ITHEMS"
+},
+{
+"time": "5:20 PM – 5:40 PM",
+"title": "Meson spectrum and low-energy constants in large-N QCD",
+"speaker": "Claudio Bonanno",
+"affiliation": "IFT UAM/CSIC Madrid"
+}
+]
+}
+]
+},
+{
+"id": "T08",
+"type": "Poster",
+"time_slot": "6:00 PM – 7:30 PM",
+"venue": "Poster Session",
+"posters": [
+{
+"title": "Reinforcement learning (RL) methods for finding fermion propagators",
+"speaker": "Ananth Ashish Garg Balasubramanian",
+"affiliation": "Indian Institute of Science"
+},
+{
+"title": "Lattice study of RG flow in 2D phi4 theory",
+"speaker": "Shashank Sharma",
+"affiliation": "Institute of technology in Kanpur"
+},
+{
+"title": "Multicritical Behavior in a Three-Dimensional Gross-Neveu Model with Staggered Fermions",
+"speaker": "Debasish Banerjee",
+"affiliation": "University of Southampton"
+},
+{
+"title": "Pion and kaon decay constants on CLS ensembles",
+"speaker": "Gunnar Bali",
+"affiliation": "Universität Regensburg"
+},
+{
+"title": "Highly improved staggered quarks in the Grid framework",
+"speaker": "Curtis Peterson",
+"affiliation": "Michigan State University"
+},
+{
+"title": "Validating a novel approach to the two-dimensional Ising model phase transition",
+"speaker": "Christopher Monahan",
+"affiliation": null
+},
+{
+"title": "Duality and disorder operators in SU(N) Lattice Gauge Theory",
+"speaker": "Atul Rathor",
+"affiliation": "S N Bose National Center for Basic Sciences, Kolkata-700106"
+},
+{
+"title": "Antistatic-antistatic-light-light potentials and disentanglement of excited states in Lattice QCD",
+"speaker": "Bernardo Miguel Carvalho Rodrigues Cruz Picão",
+"affiliation": "Instituto Superior Técnico"
+},
+{
+"title": "Thermodynamic Consistency as a Reliability Test for Complex Langevin Simulations",
+"speaker": "Anosh Joseph",
+"affiliation": "University of the Witwatersrand"
+},
+{
+"title": "Toward Efficient Trotter-Suzuki Schemes for Long-Time Quantum Dynamics",
+"speaker": "Marko Maležič",
+"affiliation": "University of Bonn / Helmholtz Institute for Radiation and Nuclear Physics"
+},
+{
+"title": "The matrix model of two-color one-flavor QCD: The ultra-strong coupling regime",
+"speaker": "ARKAJYOTI BANDYOPADHYAY",
+"affiliation": "Indian Institute of Technology, Bhubaneswar"
+},
+{
+"title": "Evaluation of Numerical Methods for the Quark Propagator",
+"speaker": "Chiho Nonaka",
+"affiliation": "Hiroshima University"
+},
+{
+"title": "Enhanced Sampling Techniques for Lattice Gauge Theory",
+"speaker": "Timo Eichhorn",
+"affiliation": "University of Wuppertal"
+},
+{
+"title": "Efficient Low-Mode Averaging for Meson and Baryon Correlators at the Physical Point",
+"speaker": "Antonio Evangelista",
+"affiliation": "University and INFN of Rome Tor Vergata"
+},
+{
+"title": "Lattice artifacts proportional to the quark mass in the QCD beta-function",
+"speaker": "Dr Demetrianos Gavriel",
+"affiliation": "University of Parma, INFN Parma, University of Cyprus"
+},
+{
+"title": "Simulating Supersymmetric Quantum Mechanics Using Variational Quantum Algorithms",
+"speaker": "John Kerfoot",
+"affiliation": "University of Liverpool"
+},
+{
+"title": "Investigation of a novel fully relativistic heavy-quark action in D meson systems",
+"speaker": "Mr David Thoma",
+"affiliation": "Technische Universität Darmstadt(TUDA-IKDA)"
+},
+{
+"title": "Theta dependence of the deconfining temperature in SU(3) Yang-Mills theory via imaginary theta simulations",
+"speaker": "Mitsuaki Hirasawa",
+"affiliation": "University of Milano-Bicocca"
+},
+{
+"title": "Towards continuum estimate of cumulants of conserved charges for (2+1)-flavor QCD with Mobius Domain Wall fermions",
+"speaker": "Jishnu Goswami",
+"affiliation": "Bielefeld University"
+},
+{
+"title": "Lattice studies of entanglement entropy in O(N) models at finite densities",
+"speaker": "Aatu Rajala",
+"affiliation": "University of Helsinki"
+},
+{
+"title": "Centre vortex evidence for two finite-temperature QCD phase transitions",
+"speaker": "Ryan Bignell",
+"affiliation": "Trinity College Dublin"
+},
+{
+"title": "Overcoming ergodicity problems of HMC using radial updates",
+"speaker": "Prof. Anthony Kennedy, Johann Ostmeyer",
+"affiliation": "University of Bonn"
+},
+{
+"title": "Online or in person?",
+"speaker": "Sofie Martins",
+"affiliation": "University of Graz"
+},
+{
+"title": "Cut-off effect analysis of the covariant coordinate space method for vacuum polarization calculations in lattice regularization",
+"speaker": "Cornelia Tolle",
+"affiliation": "Johannes Gutenberg-Universität Mainz"
+},
+{
+"title": "Staggered fermions with taste splitting mass term on dynamical configurations",
+"speaker": "Nuha Chreim",
+"affiliation": "University of Wuppertal"
+}
+]
+},
+{
+"id": "T09",
+"type": "Dinner",
+"time_slot": "7:30 PM – 9:00 PM",
+"venue": "Dinner",
+"description": "Dinner"
+}
+]
+}
